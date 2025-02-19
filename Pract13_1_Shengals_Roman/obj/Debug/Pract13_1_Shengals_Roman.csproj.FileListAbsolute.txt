@@ -1,0 +1,7 @@
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\Pract13_1_Shengals_Roman\Pract13_1_Shengals_Roman\bin\Debug\Pract13_1_Shengals_Roman.exe.config
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\Pract13_1_Shengals_Roman\Pract13_1_Shengals_Roman\bin\Debug\Pract13_1_Shengals_Roman.exe
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\Pract13_1_Shengals_Roman\Pract13_1_Shengals_Roman\bin\Debug\Pract13_1_Shengals_Roman.pdb
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\Pract13_1_Shengals_Roman\Pract13_1_Shengals_Roman\obj\Debug\Pract13_1_Shengals_Roman.csproj.AssemblyReference.cache
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\Pract13_1_Shengals_Roman\Pract13_1_Shengals_Roman\obj\Debug\Pract13_1_Shengals_Roman.csproj.CoreCompileInputs.cache
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\Pract13_1_Shengals_Roman\Pract13_1_Shengals_Roman\obj\Debug\Pract13_1_Shengals_Roman.exe
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\Pract13_1_Shengals_Roman\Pract13_1_Shengals_Roman\obj\Debug\Pract13_1_Shengals_Roman.pdb
